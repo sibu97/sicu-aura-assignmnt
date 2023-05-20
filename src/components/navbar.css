@@ -1,0 +1,12 @@
+#nav{
+    height:30px;
+    width:100%;
+   display: flexbox;
+    position:absolute;
+}
+.me-auto{
+    /* display:flex; */
+    padding:1%;
+    position: relative;
+
+}
